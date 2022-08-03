@@ -1,2 +1,3 @@
 # hello-world
-This repository will be for personal projects that I have worked on or currently working on.
+
+This repository will be populated with persanl projects. I love :life: :family:, and :music:.
