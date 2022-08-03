@@ -1,3 +1,3 @@
 # hello-world
 
-This repository will be populated with persanl projects. 
+This repository will be populated with personal projects. 
